@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/rumya/CLionProjects/DecNoCircular/Methods.h
+string
+/cygdrive/c/Users/rumya/CLionProjects/DecNoCircular/string
+iostream
+-
+
+/cygdrive/c/Users/rumya/CLionProjects/DecNoCircular/main.cpp
+iostream
+-
+Methods.h
+/cygdrive/c/Users/rumya/CLionProjects/DecNoCircular/Methods.h
+
